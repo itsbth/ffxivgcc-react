@@ -1,0 +1,42 @@
+{
+  "types": [
+    {
+      "key": "shire",
+      "name": "Shire Gear",
+      "costs": {
+        "weapon": 500,
+        "head": 245,
+        "chest": 410,
+        "hands": 245,
+        "waist": 180,
+        "legs": 410,
+        "feet": 245,
+        "ears": 180,
+        "neck": 180,
+        "wrists": 180,
+        "ring1": 180,
+        "ring2": 180
+      }
+    }
+  ],
+  "slotNames": {
+    "weapon": "Weapon",
+    "head": "Head",
+    "chest": "Chest",
+    "hands": "Hands",
+    "waist": "Waist",
+    "legs": "Legs",
+    "feet": "Feet",
+    "ears": "Ears",
+    "neck": "Neck",
+    "wrists": "Wrists",
+    "ring1": "Ring 1",
+    "ring2": "Ring 2"
+  },
+  "rewards": {
+    "arf": {
+      "normal": 150,
+      "bonus": 100
+    }
+  }
+}
